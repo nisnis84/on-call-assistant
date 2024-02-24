@@ -3,7 +3,7 @@
 ## Overview
 The On-Call Assistant for Slack is a sophisticated bot designed to enhance the monitoring and troubleshooting of production environments. Built with the integration of OpenAI's powerful Assistant, this tool specializes in real-time assistance and proactive engagement. The assistant is triggered by mentions, offering a flexible approach to monitoring that can be adapted to automatically react to specific messages if required. This solution employs OpenAI's "functions" to seamlessly interact with various operational tools, facilitating tasks such as log retrieval from ElasticSearch, Grafana and Prometheus statistics fetching, and SaaS system accessibility checks.
 
-This repository houses a conceptual prototype, showcasing the potential application of such technology in real-world scenarios.
+**This repository houses a conceptual prototype, showcasing the potential application of such technology in real-world scenarios.**
 
 ## Features
 - **Real-Time Monitoring**: Leverages the capabilities of the OpenAI Assistant to provide instant monitoring and alerts.
