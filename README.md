@@ -33,6 +33,7 @@ assistant = openai_client.beta.assistants.create(
  instructions="You are an oncall assistant. You will fetch data from multiple sources and help an Ops engineer understand the current status of a production environment. Answers should be 1-2 sentences max.",
  model="gpt-4-1106-preview",
 )
+```
 
 ## Contributing
 Contributions to the On-Call Assistant are welcome! Please read `CONTRIBUTING.md` for details on our code of conduct, and the process for submitting pull requests to us.
